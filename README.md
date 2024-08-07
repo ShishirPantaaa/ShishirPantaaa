@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm shishir panta</h1>
 <h3 align="center">Website development is a journey that combines creativity , logic and always something new to learn and explore.happy coding!!</h3>
-<img align="right" alt="cooding img" width="400" src="https://tse3.mm.bing.net/th?id=OIP.gyAMQBdiiAS2YIHtKgJKoAAAAA&pid=Api&P=0&h=220">
 
 
 - 📫 How to reach me **pantashishir32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="cooding img" width="200" src="https://tse3.mm.bing.net/th?id=OIP.gyAMQBdiiAS2YIHtKgJKoAAAAA&pid=Api&P=0&h=220">
+
 <p align="left">
 <a href="https://fb.com/shishir panta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shishir panta" height="30" width="40" /></a>
 </p>
