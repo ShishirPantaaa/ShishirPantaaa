@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shishir panta</h1>
+<h1 align="center">Hi 👋, I'm Shishir Panta</h1>
 <h3 align="center">Website development is a journey that combines creativity , logic and always something new to learn and explore.happy coding!!</h3>
 
 
