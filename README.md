@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm shishir panta</h1>
 <h3 align="center">Website development is a journey that combines creativity , logic and always something new to learn and explore.happy coding!!</h3>
-<img align="right" alt="cooding img" width="400" src="https://images.search.yahoo.com/images/view;_ylt=AwrO_Fd1krNm0isGHZGJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzNlMDM4ZTFhZjI1ZDJjZTYzOTVjNDAzZjZkNzQxMTkzBGdwb3MDNDEEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%2Bimage%2Bfor%2Bboys%26ei%3DUTF-8%26fr%3Dmcafee%26fr2%3Dp%253As%252Cv%253Ai%252Cm%253Asb-top%26tab%3Dorganic%26ri%3D41&w=245&h=180&imgurl=user-images.githubusercontent.com%2F24664153%2F197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif&rurl=https%3A%2F%2Fgithub.com%2Fariefwijaya&size=92.1KB&p=animated+coding+gif+image+for+boys&oid=3e038e1af25d2ce6395c403f6d741193&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&fr=mcafee&tt=ariefwijaya+%28Arief+Wijaya%29+%C2%B7+GitHub&b=0&ni=160&no=41&ts=&tab=organic&sigr=AD8yGC_5sTub&sigb=zLak61v0Ui.F&sigi=YH5fiRcKwRle&sigt=aofntC0ux.6t&.crumb=68xfkLHWJrT&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top">
+<img align="right" alt="cooding img" width="400" src="https://tse3.mm.bing.net/th?id=OIP.gyAMQBdiiAS2YIHtKgJKoAAAAA&pid=Api&P=0&h=220">
 
 
 - 📫 How to reach me **pantashishir32@gmail.com**
